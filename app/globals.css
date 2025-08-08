@@ -3,21 +3,13 @@
 @tailwind utilities;
 
 
-*{
-  transition: all;
-  transition-duration: 700ms;
-  transition-timing-function: ease-out;
-}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #CBD9E6;
 }
 
-#hro{
-  background-image: url('wallpapers.jpg');
-  background-size: cover;
-  background-position: center;
 
-}
 #con{
   width: 90%;
 }
